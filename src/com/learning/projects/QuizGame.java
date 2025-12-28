@@ -8,11 +8,10 @@ public class QuizGame {
         Scanner scanner = new Scanner(System.in);
 
         /*
-         * -------- JAVA QUIZ GAME --------
-         * Features:
-         * - Multiple-choice questions
-         * - Score tracking
-         * - Arrays & loops
+         * -------- ROCK PAPER SCISSORS GAME --------
+         * A classic console-based game
+         * Player competes against the computer
+         * Uses random choices and conditional logic
          */
 
         String[] questions = {
