@@ -21,6 +21,14 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+### Media / Assets ###
+music/
+*.mp3
+*.wav
+*.aac
+*.flac
+
+
 ### VS Code ###
 .vscode/
 
